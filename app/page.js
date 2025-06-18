@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main className="min-h-screen px-6 py-10 bg-white text-gray-800">
       <section className="mb-12 text-center">
-        <h1 className="text-4xl font-bold">👋 Hi, I'm Gurpreet Singh</h1>
+        <h1 className="text-4xl font-bold">👋 Hi, I&apos;m Gurpreet Singh</h1>
         <p className="text-lg mt-2">Python developer & project builder.</p>
         <p className="text-md text-gray-600">I’m currently learning web dev and building real-world apps.</p>
       </section>
